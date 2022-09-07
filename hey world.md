@@ -1,4 +1,6 @@
-Новый тест: git push
+Новый тест: git pull
+
+Новый тест: git push (-u origin main)
 
 TECТ ПРОЙДЕН
 
