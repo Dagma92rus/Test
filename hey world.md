@@ -1,4 +1,4 @@
-TECТ
+TECТ ПРОЙДЕН
 
 Hello, World!
 
