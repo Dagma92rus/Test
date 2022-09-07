@@ -1,3 +1,5 @@
+Новый тест: git push
+
 TECТ ПРОЙДЕН
 
 Hello, World!
