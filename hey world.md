@@ -1,3 +1,5 @@
+TECТ
+
 Hello, World!
 
 *Курсив.*
